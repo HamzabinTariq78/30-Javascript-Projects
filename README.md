@@ -1,6 +1,3 @@
-Certainly! Here's the text with added headings and some formatting:
-
----
 
 # 30 JavaScript Projects Challenge
 
