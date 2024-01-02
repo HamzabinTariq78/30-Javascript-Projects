@@ -19,5 +19,3 @@ This is a simple model project showcasing the usage of HTML, CSS, and JavaScript
 - HTML
 - CSS
 - JavaScript
-
-Feel free to customize the readme file by adding more details or sections based on your project's specific requirements.
